@@ -1,0 +1,1 @@
+# SnowPack + Typescript Generator 

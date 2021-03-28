@@ -20,7 +20,7 @@ module.exports = {
         port : 3000
     },
     buildOptions: {
-      /* ... */
+        sourcemap : false
     },
     alias : {
       "@types" : "./src/types",
